@@ -1,0 +1,7 @@
+names:
+  0: hardhat
+  1: vest
+  2: person
+path: C:\Users\Aditya Kumar\OneDrive\Desktop\PPE detection project\Datasets\dummy_ppe_data
+train: images/train
+val: images/val
