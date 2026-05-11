@@ -4,8 +4,8 @@ __pycache__/
 *.pyc
 models/*.pt
 yolov8n.pt
-data/logs/*.db
-data/output/*.jpg
+# data/logs/*.db
+# data/output/*.jpg
 data/input/*.mp4
 .env
 .vscode/
