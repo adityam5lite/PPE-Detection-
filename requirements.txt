@@ -1,7 +1,5 @@
-ultralytics
+streamlit
+pandas
 opencv-python-headless
 numpy
-streamlit
-fastapi
-uvicorn
 fpdf
